@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+
+#imagem1 {
+
+    height: 200px;
+    width: 400px;
+}
+
+#imagem2 {
+    height: 200px;
+    width: 400px;
+
+}
+
+.imagemgrande {
+    width: 900px;
+    width: 900px;
+}
+
+#imagem3 {
+    height: 200px;
+    width: 400px;
+}
+
